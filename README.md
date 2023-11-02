@@ -4,7 +4,7 @@
 ### <div align="center">I'm Bethel a web developer who does Graphic designing and Video editing for fun.  😜</div>  
   
 
-- 🔭 I’m currently working on a School Management system with Php Laravel
+- 🔭 I’m currently working on a Farm Management system with Php 
   
   
 
