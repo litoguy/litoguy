@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I hate debugging my own code 🤣  
   
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/f930a8781180df9ed9167f44be03b7c564ff2326b8ac4c30f5fb2398b5771d4b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <br/>  
 
 
