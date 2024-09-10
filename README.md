@@ -4,11 +4,11 @@
 ### <div align="center">I'm Bethel a web developer who does Graphic designing and Video editing for fun.  😜</div>  
   
 
-- 🔭 I’m currently working on a Farm Management system with Php 
+- 🔭 I’m currently working on a building some systems with php 
   
   
 
-- 🌱 I’m currently learning React and Node JS  
+- 🌱 I’m currently learning React 
   
 
 - ⚡ Fun fact: I hate debugging my own code 🤣  
