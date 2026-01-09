@@ -127,15 +127,21 @@ const bethel = {
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Litoguy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Bethel's GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Litoguy&theme=tokyonight&hide_border=true" alt="Bethel's GitHub Streak" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Litoguy&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Litoguy&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litoguy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Litoguy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litoguy&theme=radical&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Litoguy&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=false" alt="Top Contributions" />
+</p>
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Litoguy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Litoguy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
+</p>
 
 </div>
 
@@ -158,21 +164,24 @@ const bethel = {
 
 ### 💭 Dev Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Spotify Playing
+### 📈 Profile Views Counter
 
-[![Spotify](https://novatorem-litoguy.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-### ✍️ Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+![](https://komarev.com/ghpvc/?username=Litoguy&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 ---
 
-### 📈 Profile Views
+### 🎯 Current Focus
 
-![](https://visitcount.itsvg.in/api?id=Litoguy&icon=6&color=6)
+```javascript
+while (coffee.available) {
+  code();
+  debug(); // even though I hate it 😅
+  innovate();
+  repeat();
+}
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
