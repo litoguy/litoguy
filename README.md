@@ -127,21 +127,26 @@ const bethel = {
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Litoguy&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Litoguy&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Litoguy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Litoguy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litoguy&theme=radical&hide_border=false&layout=compact&langs_count=10" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Litoguy&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=false" alt="Top Contributions" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litoguy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" />
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Litoguy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Litoguy&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Litoguy&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
