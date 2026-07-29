@@ -125,9 +125,9 @@ const bethel = {
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Litoguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Litoguy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Litoguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=litoguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=litoguy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=litoguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litoguy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" />
