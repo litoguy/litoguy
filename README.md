@@ -180,6 +180,7 @@ while (coffee.available) {
 </div>
 
 ---
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=litoguy&theme=iceberg&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 
 <div align="center">
 
