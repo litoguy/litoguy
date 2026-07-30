@@ -38,17 +38,6 @@ const bethel = {
 };
 ```
 
----
-
-### 🎯 What I'm Up To
-
-- 🔭 **Currently Building:** Cutting-edge systems with React & TypeScript
-- 🌱 **Currently Learning:** AI Integration into Web Development
-- 💡 **Always Exploring:** New technologies and creative solutions
-- 🎨 **Creative Side:** Graphic Design & Video Editing enthusiast
-- ⚡ **Fun Fact:** Debugging is my arch-nemesis 🐛
-
----
 
 <div align="center">
 
@@ -180,8 +169,6 @@ while (coffee.available) {
 </div>
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=litoguy&theme=iceberg&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-
 <div align="center">
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
